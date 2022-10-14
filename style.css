@@ -1,0 +1,16 @@
+body
+{
+    background-image:url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#mycanvas
+{
+    border-width: 5px;
+    border-color: black;
+    border-style: ridge;
+}
+#titulo
+{
+    color: red;
+}
